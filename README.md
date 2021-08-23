@@ -6,6 +6,6 @@
 * css
 * java script
 
-### Try it [here]()!
+### Try it [here](https://pavelpashkovich.github.io/slider/)!
 
 ### Created by [Pavel Pashkovich](https://github.com/PavelPashkovich/)
